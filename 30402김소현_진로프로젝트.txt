@@ -8,56 +8,56 @@ steps = [
     {
         "title": "Step 1: 입안 헹굼",
         "description": "적당량의 증류수로 입안을 강하게 헹궈 입안 상피세포 추출액을 만듭니다.",
-        "image": "30402김소현_진로프로젝트/images/step1.jpg",
+        "image": "images/step1.jpg",
         "delay": 1,  # 시뮬레이션 상의 딜레이 (실제 시간보다 짧게 설정)
         "note": "입안 상피세포를 모을 때 되도록 강하고 오래 헹구세요."
     },
     {
         "title": "Step 2: 첫 번째 원심분리",
         "description": "입안 상피세포 추출액 1.5mL를 마이크로 튜브에 옮긴 후, 13000rpm으로 1분간 원심분리합니다.\n(원심분리 중 …)",
-        "image": "30402김소현_진로프로젝트/images/step2.jpg",
+        "image": "images/step2.jpg",
         "delay": 2,
         "note": ""
     },
     {
         "title": "Step 3: 상층액 제거 및 재충전 원심분리",
         "description": "원심분리 후 상층액을 버리고, 마이크로 튜브에 입안 상피세포 추출액을 꽉 채워 다시 원심분리합니다.",
-        "image": "30402김소현_진로프로젝트/images/step3.jpg",
+        "image": "images/step3.jpg",
         "delay": 1,
         "note": ""
     },
     {
         "title": "Step 4: 세포 추출",
         "description": "두 번째 원심분리 후 상층액을 제거하여 세포를 얻습니다.",
-        "image": "30402김소현_진로프로젝트/images/step4.jpg",
+        "image": "images/step4.jpg",
         "delay": 1,
         "note": ""
     },
     {
         "title": "Step 5: 소금-세제액 준비 및 혼합",
         "description": "소금 2g, 주방용 세제 7mL, 증류수 150mL를 섞어 소금-세제액을 만든 후, 입안 상피세포가 들어있는 튜브에 0.5mL를 넣고 잘 섞습니다.",
-        "image": "30402김소현_진로프로젝트/images/step5.jpg",
+        "image": "images/step5.jpg",
         "delay": 1,
         "note": ""
     },
     {
         "title": "Step 6: 세 번째 원심분리",
         "description": "12500rpm으로 10분 동안 원심분리합니다.",
-        "image": "30402김소현_진로프로젝트/images/step6.jpg",
+        "image": "images/step6.jpg",
         "delay": 2,
         "note": ""
     },
     {
         "title": "Step 7: 에탄올 추가",
         "description": "마이크로 튜브의 상층액에 차가운 95% 에탄올 0.5mL를 벽을 따라 천천히 흘려 에탄올 층을 만듭니다.",
-        "image": "30402김소현_진로프로젝트/images/step7.jpg",
+        "image": "images/step7.jpg",
         "delay": 1,
         "note": "에탄올은 실험 하루 전 냉장 보관하고, 벽을 따라 천천히 흘려 넣어야 합니다."
     },
     {
         "title": "Step 8: DNA 관찰",
         "description": "세포 추출액과 에탄올 층의 경계에서 실 모양의 DNA가 나타나 덩어리로 뭉치는 현상을 관찰합니다.",
-        "image": "30402김소현_진로프로젝트/images/step8.jpg",
+        "image": "images/step8.jpg",
         "delay": 1,
         "note": ""
     }
